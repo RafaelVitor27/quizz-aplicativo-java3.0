@@ -2,24 +2,24 @@
 let questions = [
   {
     numb: 1,
-    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
-    answer: "Marie Curiee",
+    question: "Duas organizações militares foram fundadas pela União Soviética e os Estados Unidos com o objetivo de garantir alianças dentro da lógica bipolar que o mundo vivia durante a Guerra Fria.",
+    answer: " Pacto de Varsóvia e OTAN",
     options: [
-      "Albert Einstein",
-      "Marie Curiee",
-      "Stephen Hawking",
-      "Linus Pauling"
+      "ONU e OTAN",
+      "Pacto de Varsóvia e ONU",
+      "Pacto de Varsóvia e OTAN",
+      "ONU e OEA"
     ]
   },
   {
     numb: 2,
-    question: "Qual o país mais novo do mundo?",
-    answer: "Sudão do Sul",
+    question: "Dentre os conflitos que ocorreram por conta da disputa ideológica durante a Guerra Fria podemos citar:",
+    answer: "Revolução Cubana",
     options: [
-      "Timor Lestet",
-      "Montenegro",
-      "Sudão do Sul",
-      "Kosovo"
+      "Revolução Francesa",
+      "Revolução Cubana",
+      "Guerra Russo-Japonesa",
+      "Guerra Hispano-Americana"
     ]
   },
   {
